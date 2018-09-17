@@ -1,0 +1,280 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ApplicationInsights.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\csc.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\csc.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\csc.rsp
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\csi.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\csi.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\csi.rsp
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.AppContext.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Console.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\vbc.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\vbc.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\vbc.rsp
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\RukiKrukiWithUsers.dll.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\RukiKrukiWithUsers.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\RukiKrukiWithUsers.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Antlr3.Runtime.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\EntityFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.Web.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Owin.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Helpers.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Mvc.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Optimization.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Razor.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.WebPages.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\WebGrease.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Helpers.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Mvc.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Optimization.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Razor.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.WebPages.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Antlr3.Runtime.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\EntityFramework.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\Microsoft.AI.Web.xml
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\EntityFramework.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Providers.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\RukiKrukiWithUsers\RukiKrukiWithUsers\bin\System.Web.Providers.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ApplicationInsights.config
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\csc.exe
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\csc.exe.config
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\csc.rsp
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\csi.exe
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\csi.exe.config
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\csi.rsp
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.AppContext.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Collections.Immutable.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Console.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Diagnostics.Process.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.IO.Compression.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.IO.FileSystem.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.IO.Pipes.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Reflection.Metadata.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Security.AccessControl.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Security.Claims.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Security.Principal.Windows.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Threading.Thread.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.ValueTuple.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Xml.XmlDocument.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Xml.XPath.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\vbc.exe
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\vbc.exe.config
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\vbc.rsp
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\VBCSCompiler.exe
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\roslyn\VBCSCompiler.exe.config
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\RukiKrukiWithUsers.dll.config
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\RukiKrukiWithUsers.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\RukiKrukiWithUsers.pdb
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Antlr3.Runtime.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\EntityFramework.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\EntityFramework.SqlServer.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.Agent.Intercept.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.DependencyCollector.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.Web.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.WindowsServer.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.ApplicationInsights.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Google.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Web.Infrastructure.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Newtonsoft.Json.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Owin.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Helpers.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Mvc.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Optimization.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Providers.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Razor.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.WebPages.Deployment.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.WebPages.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.WebPages.Razor.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\WebGrease.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Providers.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Helpers.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Mvc.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Optimization.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.Razor.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.WebPages.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.WebPages.Deployment.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\System.Web.WebPages.Razor.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Antlr3.Runtime.pdb
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Newtonsoft.Json.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\EntityFramework.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\EntityFramework.SqlServer.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Google.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.ApplicationInsights.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.DependencyCollector.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.WindowsServer.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\Microsoft.AI.Web.xml
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\System.Web.Helpers.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\System.Web.Mvc.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\System.Web.Optimization.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\System.Web.Razor.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\System.Web.WebPages.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\EntityFramework.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.csprojResolveAssemblyReference.cache
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.csproj.CoreCompileInputs.cache
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.dll
+C:\qtprojects\StuffSite_2\RukiKrukiWithUsers\obj\Debug\RukiKrukiWithUsers.pdb
