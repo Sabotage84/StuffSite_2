@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RukiKrukiWithUsers.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,6 +11,11 @@ namespace RukiKrukiWithUsers.Controllers
     {
         public ActionResult Index()
         {
+            ProductsContext pt = new ProductsContext();
+
+            Product p = new Product();
+            pt.Products.Add(p);
+
             return View();
         }
 
