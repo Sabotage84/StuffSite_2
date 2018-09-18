@@ -1,0 +1,28 @@
+﻿@model List<RukiKrukiWithUsers.Models.Videos>
+@{
+    ViewBag.Title = "VideoLessons";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    string startRow = "<div class=\"row\">";
+    string endRow = " </div>";
+}
+
+<h2>VideoLessons</h2>
+
+@for (int i = 0; i < Model.Count<RukiKrukiWithUsers.Models.Videos>(); i++)
+{
+    if (i % 3 == 0)
+    {
+        @Html.Raw(startRow)
+    }
+    @Html.Partial("_PartialVideoLesson", Model.ElementAt<RukiKrukiWithUsers.Models.Videos>(i));
+
+
+    if (i % 3 == 2 || i == (Model.Count<RukiKrukiWithUsers.Models.Videos>() - 1))
+    {
+        @Html.Raw(endRow)
+    }
+}
+<br>
