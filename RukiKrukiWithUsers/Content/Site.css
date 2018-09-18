@@ -22,3 +22,32 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+
+
+.fowflex {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.tratatat {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+
+.equal, .equal > div[class*='col-'] {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex: 1 0 auto;
+}
+
+#bottomDiv {
+    vertical-align: bottom; /* вот она */
+    display: inline-block;
+}

@@ -197,6 +197,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\MaterialsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -278,6 +279,10 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Home\VideoLessons.cshtml" />
     <Content Include="Views\Home\_PartialVideoLesson.cshtml" />
+    <Content Include="Views\Materials\Index.cshtml" />
+    <Content Include="Views\Materials\_MaterialsPartishal.cshtml" />
+    <Content Include="Views\Home\Materials.cshtml" />
+    <Content Include="Views\Home\_PartialMaterials.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

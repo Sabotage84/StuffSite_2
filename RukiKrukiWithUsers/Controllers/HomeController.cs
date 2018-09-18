@@ -46,6 +46,13 @@ namespace RukiKrukiWithUsers.Controllers
             return View(videoLess);
         }
 
+        public ActionResult Materials()
+        {
+            ProductsContext db = new ProductsContext();
+
+            return View(db.Products);
+        }
+
         [Authorize(Roles = "admin")]
         public ActionResult About()
         {

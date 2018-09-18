@@ -1,0 +1,8 @@
+﻿@model RukiKrukiWithUsers.Models.Product
+
+
+<div class="col-lg-3 text-center">
+    <a href='@Url.Action("Index","Materials", new {id=Model.ID})'><h3 style="color:red">@Model.Name</h3></a>
+
+    <img src="~/@Model.Image" />
+</div>
