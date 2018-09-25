@@ -1,0 +1,31 @@
+﻿@model IEnumerable<RukiKrukiWithUsers.Models.Tool>
+
+
+@{
+    ViewBag.Title = "Tools";
+}
+
+<h2>Инструменты</h2>
+
+<div class="row">
+
+    @{
+        string startRow = "<div class=\"row\">";
+        string endRow = " </div>";
+    }
+
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+        if (i % 4 == 0)
+        {
+            @Html.Raw(startRow)
+        }
+        @Html.Partial("_PartishalTools", Model.ElementAt(i));
+
+        if (i % 4 == 3 || i == (Model.Count() - 1))
+        {
+            @Html.Raw(endRow)
+        }
+    }
+
+</div>

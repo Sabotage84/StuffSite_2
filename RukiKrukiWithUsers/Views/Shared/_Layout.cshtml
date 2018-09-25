@@ -24,11 +24,12 @@
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Видео Уроки", "VideoLessons", "Home")</li>
                     <li>@Html.ActionLink("Материалы", "Materials", "Home")</li>
-                    <li>@Html.ActionLink("Инструменты", "Tools", "Home")</li>
+                    <li>@Html.ActionLink(" Инструменты", "ToolsMarket", "Home")</li>
                     <li>@Html.ActionLink("О программе", "About", "Home")</li>
                     <li>@Html.ActionLink("Контакт", "Contact", "Home")</li>
                     @if (User.IsInRole("admin"))
                     {
+                        <li>@Html.ActionLink(" Управление инструментами", "Tools", "Home")</li>
                         <li>@Html.ActionLink("Тест", "Index", "Products")</li>
                     }
                 </ul>
