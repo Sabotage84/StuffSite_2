@@ -9,25 +9,22 @@ namespace RukiKrukiWithUsers.Controllers
 {
     public class HomeController : Controller
     {
-        List<Tool> tools;
+       
+        ToolsContext toolsDB = new ToolsContext();
 
         public HomeController():base()
         {
-            tools = new List<Tool>();
-
-            tools.Add(new Tool { Name = "Кусачки", Description = "Кусай, унижай", ID = 1, Image = "", InStock = true, Price = 10 });
-            tools.Add(new Tool { Name = "Нож", Description = "Семь раз отмерь, потом подумай и еще раз отмерь", ID = 5, Image = "", InStock = true, Price = 20 });
-            tools.Add(new Tool { Name = "Супер Печь", Description = "Я люблю плавить)", ID = 2, Image = "", InStock = true, Price = 30 });
-            tools.Add(new Tool { Name = "Круглогубцы", Description = "А папа и не заметил", ID = 3, Image = "", InStock = true, Price = 40 });
-            tools.Add(new Tool { Name = "Гравировачная машинка", Description = "И это подарок на 8 марта)", ID = 4, Image = "", InStock = true, Price = 50 });
+            
         }
 
         public ActionResult Index()
         {
-            ProductsContext pt = new ProductsContext();
+            //ProductsContext pt = new ProductsContext();
 
-            Product p = new Product();
-            pt.Products.Add(p);
+            //Product p = new Product();
+            //pt.Products.Add(p);
+            //Tool t = new Tool();
+            //toolsDB.Tools.Add(t);
 
             return View();
         }
@@ -59,12 +56,12 @@ namespace RukiKrukiWithUsers.Controllers
 
         public ActionResult Tools()
         {
-            return View(tools);
+            return View(toolsDB.Tools);
         }
 
         public ActionResult ToolsMarket()
         {
-            return View(tools);
+            return View(toolsDB.Tools);
         }
 
         [Authorize(Roles = "admin")]

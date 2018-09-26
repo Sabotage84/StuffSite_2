@@ -2,7 +2,7 @@
 
 
 <div class="col-lg-3 text-center">
-    <a href='@Url.Action("Index","Tools", new {id=Model.ID})'><h3 style="color:red">@Model.Name</h3></a>
+    <a href='@Url.Action("Index","Tools", Model)'><h3 style="color:red">@Model.Name</h3></a>
 
     <img src="~/@Model.Image" />
 </div>
