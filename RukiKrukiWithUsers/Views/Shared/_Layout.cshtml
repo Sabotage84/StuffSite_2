@@ -27,14 +27,17 @@
                     <li>@Html.ActionLink(" Инструменты", "ToolsMarket", "Home")</li>
                     <li>@Html.ActionLink("О программе", "About", "Home")</li>
                     <li>@Html.ActionLink("Контакт", "Contact", "Home")</li>
+                </ul>
                     @if (User.IsInRole("admin"))
                     {
-                        <li>@Html.ActionLink(" Управление инструментами", "Tools", "Home")</li>
-                        <li>@Html.ActionLink("Тест", "Index", "Products")</li>
-                    }
-                </ul>
-                @Html.Partial("_LoginPartial")
-            </div>
+                        <ul class="nav navbar-nav">
+                            <li>@Html.ActionLink(" Управление инструментами", "Index", "ToolsManager")</li>
+                            <li>@Html.ActionLink("Умправление материалами", "Index", "Products")</li>
+                            <li>@Html.ActionLink("Умправление Видео", "Index", "Videos")</li>
+                            </ul>
+                     }
+                 @Html.Partial("_LoginPartial")
+</div>
         </div>
     </div>
     <div class="container body-content">
