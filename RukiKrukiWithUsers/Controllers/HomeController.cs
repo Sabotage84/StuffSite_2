@@ -60,5 +60,12 @@ namespace RukiKrukiWithUsers.Controllers
 
             return View();
         }
+        [Authorize]
+        public ActionResult Faq()
+        {
+            ViewBag.Message = "Forum";
+
+            return View();
+        }
     }
 }
